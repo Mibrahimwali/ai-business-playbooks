@@ -13,6 +13,7 @@ Artificial Intelligence · AI Agents · Enterprise AI · RAG · Generative AI
 ## Recent content
 
 <!-- RECENT_CONTENT -->
+| [AI Restaurant Ordering System](playbooks/2026/06/ai-restaurant-ordering-system.md) | Latest |
 | [AI Customer Support Agent](playbooks/2026/06/ai-customer-support-agent.md) | Latest |
 
 | Article | Added |
