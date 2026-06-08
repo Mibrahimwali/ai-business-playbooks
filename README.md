@@ -13,6 +13,7 @@ Artificial Intelligence · AI Agents · Enterprise AI · RAG · Generative AI
 ## Recent content
 
 <!-- RECENT_CONTENT -->
+| [AI HR Assistant for Startups](playbooks/2026/06/ai-hr-assistant-for-startups.md) | Latest |
 | [AI Lead Generation Pipeline](playbooks/2026/06/ai-lead-generation-pipeline.md) | Latest |
 | [AI Restaurant Ordering System](playbooks/2026/06/ai-restaurant-ordering-system.md) | Latest |
 | [AI Customer Support Agent](playbooks/2026/06/ai-customer-support-agent.md) | Latest |
