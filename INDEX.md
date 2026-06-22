@@ -8,3 +8,4 @@
 - [AI Lead Generation Pipeline](playbooks/2026/06/ai-lead-generation-pipeline.md)
 - [AI HR Assistant for Startups](playbooks/2026/06/ai-hr-assistant-for-startups.md)
 - [AI CRM Automation Workflow](playbooks/2026/06/ai-crm-automation-workflow.md)
+- [RAG Knowledge Base for Sales Teams](playbooks/2026/06/rag-knowledge-base-for-sales-teams.md)
