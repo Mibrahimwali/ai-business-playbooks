@@ -13,6 +13,7 @@ Artificial Intelligence · AI Agents · Enterprise AI · RAG · Generative AI
 ## Recent content
 
 <!-- RECENT_CONTENT -->
+| [AI Document Processing for Legal](playbooks/2026/06/ai-document-processing-for-legal.md) | Latest |
 | [RAG Knowledge Base for Sales Teams](playbooks/2026/06/rag-knowledge-base-for-sales-teams.md) | Latest |
 | [AI CRM Automation Workflow](playbooks/2026/06/ai-crm-automation-workflow.md) | Latest |
 | [AI HR Assistant for Startups](playbooks/2026/06/ai-hr-assistant-for-startups.md) | Latest |
