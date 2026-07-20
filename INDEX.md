@@ -11,3 +11,4 @@
 - [RAG Knowledge Base for Sales Teams](playbooks/2026/06/rag-knowledge-base-for-sales-teams.md)
 - [AI Document Processing for Legal](playbooks/2026/06/ai-document-processing-for-legal.md)
 - [Prompt Engineering Playbook for CTOs](playbooks/2026/07/prompt-engineering-playbook-for-ctos.md)
+- [AI Quality Assurance for Software Teams](playbooks/2026/07/ai-quality-assurance-for-software-teams.md)
