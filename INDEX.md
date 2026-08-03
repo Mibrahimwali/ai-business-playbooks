@@ -12,3 +12,4 @@
 - [AI Document Processing for Legal](playbooks/2026/06/ai-document-processing-for-legal.md)
 - [Prompt Engineering Playbook for CTOs](playbooks/2026/07/prompt-engineering-playbook-for-ctos.md)
 - [AI Quality Assurance for Software Teams](playbooks/2026/07/ai-quality-assurance-for-software-teams.md)
+- [AI Inventory Forecasting for Retail](playbooks/2026/08/ai-inventory-forecasting-for-retail.md)
