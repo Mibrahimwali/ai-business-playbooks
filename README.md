@@ -13,6 +13,7 @@ Artificial Intelligence · AI Agents · Enterprise AI · RAG · Generative AI
 ## Recent content
 
 <!-- RECENT_CONTENT -->
+| [AI Meeting Summarization for Executives](playbooks/2026/08/ai-meeting-summarization-for-executives.md) | Latest |
 | [AI Inventory Forecasting for Retail](playbooks/2026/08/ai-inventory-forecasting-for-retail.md) | Latest |
 | [AI Quality Assurance for Software Teams](playbooks/2026/07/ai-quality-assurance-for-software-teams.md) | Latest |
 | [Prompt Engineering Playbook for CTOs](playbooks/2026/07/prompt-engineering-playbook-for-ctos.md) | Latest |

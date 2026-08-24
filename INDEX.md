@@ -13,3 +13,4 @@
 - [Prompt Engineering Playbook for CTOs](playbooks/2026/07/prompt-engineering-playbook-for-ctos.md)
 - [AI Quality Assurance for Software Teams](playbooks/2026/07/ai-quality-assurance-for-software-teams.md)
 - [AI Inventory Forecasting for Retail](playbooks/2026/08/ai-inventory-forecasting-for-retail.md)
+- [AI Meeting Summarization for Executives](playbooks/2026/08/ai-meeting-summarization-for-executives.md)
